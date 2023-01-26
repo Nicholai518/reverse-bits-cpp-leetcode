@@ -10,7 +10,7 @@ Note that in some languages, such as Java, there is no unsigned integer type. In
 In Java, the compiler represents the signed integers using 2's complement notation. Therefore, in Example 2 above, the input represents the signed integer -3 and the output represents the signed integer -1073741825.
 
 ## IDE
-Visual Studio Code
+Visual Studio
 
 ## Language
 C++
